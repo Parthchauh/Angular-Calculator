@@ -10,7 +10,8 @@ You can read the following tutorials for more information about how to build thi
 
 - [Angular 8 Data (Event & Property) Binding Tutorial: Build your First Angular App](https://www.techiediaries.com/angular-data-event-property-binding)
 
-![Angular 8 Example Calculator]("C:\Users\cpart\OneDrive\Pictures\Screenshots\Screenshot (6).png")
+![Angular 8 Example Calculator]("![Screenshot (6)](https://github.com/Parthchauh/Angular-Calculator/assets/136223855/634e22f0-57e8-4773-9eaf-e52acb0a2eb6)
+")
 
 ## Development server
 
